@@ -1,6 +1,6 @@
 import pandas as pd
 
-# 加载数据集
+# 加载数据集(包含芝加哥，纽约，华盛顿）
 def load_data(city, month=None, day=None):
     FILE_PATHS = {
         'chicago': 'chicago.csv',
