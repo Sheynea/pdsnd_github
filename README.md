@@ -1,13 +1,13 @@
 # Explore US Bikeshare Data
 
 ## Date Created
-This project was created on 2024-09-24.
+This project was created on 2024-09-24.First project submission is 2024-09-06.
 
 ## Project Title
 Explore US Bikeshare Data
 
 ## Description
-This project is designed to explore and analyze bikeshare data from three major cities in the United States: Chicago, New York City, and Washington DC. The project includes a Python script that loads data from CSV files, performs various statistical analyses, and provides insights into bikeshare usage patterns.
+This project is designed to explore and analyze bikeshare data from three major cities in the United States: Chicago, New York City, and Washington DC. The project includes a Python script that loads data from CSV files, performs various statistical analyses, and provides insights into bikeshare usage patterns. 
 
 ## Files Used
 - `bikeshare.py`: Main script for analyzing bikeshare data.
@@ -20,7 +20,7 @@ This project is designed to explore and analyze bikeshare data from three major 
 
 ## Credits
 It's important to give proper credit. The following resources were used as references and inspiration for this project:
-- [Udacity Data Analyst Nanodegree Program](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+- [Programming for Data Science with Python](https://www.udacity.com/enrollment/nd104)
 - [Markdown Guide from GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 ## Requirements
 ### Software
