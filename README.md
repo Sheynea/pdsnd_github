@@ -1,17 +1,34 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Explore US Bikeshare Data
 
-### Date created
-Include the date you created this project and README file.
+## Date Created
+This project was created on 2024-09-24.
 
-### Project Title
-Replace the Project Title
+## Project Title
+Explore US Bikeshare Data
 
-### Description
-Describe what your project is about and what it does
+## Description
+This project is designed to explore and analyze bikeshare data from three major cities in the United States: Chicago, New York City, and Washington DC. The project includes a Python script that loads data from CSV files, performs various statistical analyses, and provides insights into bikeshare usage patterns.
 
-### Files used
-Include the files used
+## Files Used
+- `bikeshare.py`: Main script for analyzing bikeshare data.
+- `chicago.csv`: Sample data file for Chicago.
+- `new_york_city.csv`: Sample data file for New York City.
+- `washington.csv`: Sample data file for Washington DC.
+- `requirements.txt`: List of required Python packages.
+- `README.md`: This file.
+- `data/`: Directory containing sample data files.
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+## Credits
+It's important to give proper credit. The following resources were used as references and inspiration for this project:
+- [Udacity Data Analyst Nanodegree Program](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+- [Markdown Guide from GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## Requirements
+### Software
+- Python 3.12
+- Git
 
+### Installation
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/Sheynea/pdsnd_github.git
+   cd pdsnd_github
