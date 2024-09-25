@@ -20,7 +20,7 @@ def load_data(city, month=None, day=None):
 
     return df
 
-# 显示统计结果
+# 显示统计结果(包含时间，站点，行程持续时间，用户类型计数，性别和年龄信息)
 def display_statistics(df):
     # 计算常用时间
     popular_month = df['Start Time'].dt.month.mode()[0]
